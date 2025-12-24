@@ -3,14 +3,7 @@
 ## 🎯Project Objective
 This project analyzes customer demographics and shopping behaviour to uncover patterns, trends, and insights that can help businesses improve their marketing strategies, sales performance, and customer engagement.  
 
-The dashboard provides a comprehensive view of customer age groups, gender distribution, purchase frequency, preferred product categories, and spending patterns.
-
-## Key Features
-- Interactive visuals to analyze customer demographics (age, gender, location)  
-- Insights into shopping behaviour such as purchase frequency, average spend, and product preferences  
-- Filters by region, product category, and time period for granular analysis  
-- Key metrics (KPI cards) for quick insights  
-- Drill-through functionality for detailed customer-level analysis
+The dashboard provides a comprehensive view of customer age groups, gender distribution, purchase frequency, preferred product categories
 
   ## Data Source
 - Dataset: Customer transaction records and demographic data (CSV format)  
@@ -23,6 +16,31 @@ The dashboard provides a comprehensive view of customer age groups, gender distr
 **Power Query** – Data cleaning and transformation  
 **DAX** – Calculated metrics and measures 
 
+## 🧩 Problem Statements
+- Which gender contributes more to revenue and quantity?
+- Which age group generates the highest revenue?
+- What product categories are most popular among different customer segments?
+- Which payment mode is preferred by customers?
+
+  ## Data Cleaning & Transformation
+- Removed duplicate records
+- Standardized gender and category values
+- Created age groups (18–25, 26–35, 36–45, 46–55, 56+)
+- Calculated total revenue using Quantity × Price
+
+  ## Key Insights
+- Female customers contribute ~60% of total revenue
+- 56+ age group generates the highest revenue
+- Clothing and Cosmetics are top-performing categories
+- cash is the most preferred payment mode, followed by Credit Car
+
+## Key Features
+- Interactive visuals to analyze customer demographics (age, gender, location)  
+- Insights into shopping behaviour such as purchase frequency, average spend, and product preferences  
+- Filters by region, product category, and time period for granular analysis  
+- Key metrics (KPI cards) for quick insights  
+- Drill-through functionality for detailed customer-level analysis
+
 
   ## 📸 Dashboard Snapshot
   ### 🟦 **1. Main Dashboard (1-Page Overview)**
@@ -34,6 +52,12 @@ This page focuses on understanding customer demographics and behaviour patterns.
 
 
 ### 🟧 **3. Payment Details**
-This page shows payment preferences and transaction patterns.  
+This page shows payment preferences and transaction patterns. 
+
+## 📈 Outcome & Business Value
+- Identified high-value customer segments
+- Enabled better marketing targeting by age and gender
+- Provided visibility into payment preferences
+- Helped stakeholders make data-driven decisions
 
 

@@ -14,7 +14,7 @@ The dashboard provides a comprehensive view of customer age groups, gender distr
 
   ## Data Source
 - Dataset: Customer transaction records and demographic data (CSV format)  
-- Columns include:invoice_no,customer_id,gender,age,category,quantity,price,payment_method,invioce_date,shopping_mall
+- Columns include: invoice_no, customer_id, gender, age, category, quantity, price, payment_method, invioce_date, shopping_mall
 
   ## Tools and Technologies Used
 **Excel / CSV** – Raw data source  

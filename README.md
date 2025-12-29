@@ -1,4 +1,4 @@
-# 📊 Customer Demographic and Shopping Behaviour Analysis
+# 📊 Customer Demographic and Shopping Revenue Analysis
 
 ## 🎯Project Objective
 This project analyzes customer demographics and shopping behaviour to uncover patterns, trends, and insights that can help businesses improve their marketing strategies, sales performance, and customer engagement.  

@@ -93,7 +93,7 @@ This page focuses on understanding customer demographics and behaviour patterns.
 ### 🟧 **3. Payment Details**
 This page shows payment preferences and transaction patterns. 
 
-![Payment Details](dashboard_snapshot/dashboard.png)
+![payment details](dashboard_snapshot/payment details.png)
 
 ## 📈 Outcome & Business Value
 - Identified high-value customer segments

@@ -1,4 +1,4 @@
-# 📊 Customer Demographic and Shopping Revenue Analysis
+# 📊 Customer Demographic and Shopping Behaviour Analysis
 
   ## 📸 Dashboard Snapshot
   ### 🟦 **1. Main Dashboard (1-Page Overview)**

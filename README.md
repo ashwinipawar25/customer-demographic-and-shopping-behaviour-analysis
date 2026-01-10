@@ -87,13 +87,13 @@ It includes key KPIs, demographic overview, spending trends, and category-wise a
 ### 🟩 **2. Customer Insights**
 This page focuses on understanding customer demographics and behaviour patterns. 
 
-![Customer Insights](dashboard_snapshot/customer insight.png)
+![Customer Insights](dashboard_snapshot/customer_insight.png)
 
 
 ### 🟧 **3. Payment Details**
 This page shows payment preferences and transaction patterns. 
 
-![payment details](dashboard_snapshot/payment details.png)
+![payment details](dashboard_snapshot/payment_details.png)
 
 ## 📈 Outcome & Business Value
 - Identified high-value customer segments

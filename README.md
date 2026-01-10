@@ -1,7 +1,46 @@
 # 📊 Customer Demographic and Shopping Behavior Analysis
 
-  ## 📸 Dashboard Snapshot
-  ### 🟦 **1. Main Dashboard (1-Page Overview)**
+## 👀 Dashboard Preview
+![Main Dashboard](dashboard_snapshot/dashboard.png)
+
+## 🎯Project Objective
+This project analyzes customer demographics and shopping behaviour to uncover patterns, trends, and insights that can help businesses improve their marketing strategies, sales performance, and customer engagement.  
+
+The dashboard provides a comprehensive view of customer age groups, gender distribution, purchase frequency, preferred product categories
+
+##  🧩 Tasks / Objectives
+1.	How is the shopping distribution according to gender? 
+2.	Which gender did we sell more products to? 
+3.	Which gender generated more revenue? 
+4.	Distribution of purchase categories relative to other columns? 
+5.	How is the shopping distribution according to age? 
+6.	Which age cat did we sell more products to? 
+7.	Which age cat generated more revenue? 
+8.	Distribution of purchase categories relative to other columns? 
+9.	Does the payment method have a relation with other columns? 
+10.	How is the distribution of the payment method? 
+11.	Visualize the data using Tableau /PowerBI and derive insights and give your inputs/suggestions to the company. 
+
+
+## Data Source
+- Dataset: Customer transaction records and demographic data (CSV format)  
+- Columns include: invoice_no, customer_id, gender, age, category, quantity, price, payment_method, invoice_date, shopping_mall
+
+## Tools and Technologies Used
+**Excel / CSV** – Raw data source  
+**SQL** - Analyze the queries<br>
+**Power BI Desktop** – Dashboard creation and data visualization  
+**Power Query** – Data cleaning and transformation  
+**DAX** – Calculated metrics and measures 
+
+## Data Cleaning & Transformation
+- Removed duplicate records
+- Standardized gender and category values
+- Created age groups (18–25, 26–35, 36–45, 46–55, 56+)
+- Calculated total revenue using Quantity × Price
+
+## 📸 Dashboard Snapshot
+### 🟦 **1. Main Dashboard (1-Page Overview)**
 This page provides a complete one-page summary of the overall customer and sales performance.  
 It includes key KPIs, demographic overview, spending trends, and category-wise analysis. 
 
@@ -19,37 +58,10 @@ This page shows payment preferences and transaction patterns.
 
 ![payment details](dashboard_snapshot/payment_details.png)
 
-## 🎯Project Objective
-This project analyzes customer demographics and shopping behaviour to uncover patterns, trends, and insights that can help businesses improve their marketing strategies, sales performance, and customer engagement.  
-
-The dashboard provides a comprehensive view of customer age groups, gender distribution, purchase frequency, preferred product categories
-
-## Data Source
-- Dataset: Customer transaction records and demographic data (CSV format)  
-- Columns include: invoice_no, customer_id, gender, age, category, quantity, price, payment_method, invioce_date, shopping_mall
-
-## Tools and Technologies Used
-**Excel / CSV** – Raw data source  
-**SQL** - Analyze the queries<br>
-**Power BI Desktop** – Dashboard creation and data visualization  
-**Power Query** – Data cleaning and transformation  
-**DAX** – Calculated metrics and measures 
-
-## 🧩 Problem Statements
-- Which gender contributes more to revenue and quantity?
-- Which age group generates the highest revenue?
-- What product categories are most popular among different customer segments?
-- Which payment mode is preferred by customers?
-
-## Data Cleaning & Transformation
-- Removed duplicate records
-- Standardized gender and category values
-- Created age groups (18–25, 26–35, 36–45, 46–55, 56+)
-- Calculated total revenue using Quantity × Price
-
 ## Key Insights
+This analysis provides insights on customer demographics, revenue contribution, popular product categories, and payment preferences.
 
-**Overall Summary:**
+**✅ Overall Summary:**
 
 Total Customers: 99K+ 👥 
 
@@ -57,13 +69,13 @@ Total Quantity Sold: 299K+ 🛒
 
 Total Revenue: 251.51M 💰 
 
-**Gender Insights:**
+**✅ Gender Insights:**
 
 Female customers account for ~60% of the total customer base 👩
 
 Female customers contribute the highest share of revenue, surpassing male customers 💵
 
-**Age Group Insights:**
+**✅ Age Group Insights:**
 
 56+ age group generates the highest revenue (~67M) 🏆
 
@@ -71,7 +83,7 @@ Female customers contribute the highest share of revenue, surpassing male custom
 
 18–25 age group contributes the lowest share of revenue 📉
 
-**Product Category Insights:**
+**✅ Product Category Insights:**
 
 Clothing is the most purchased category with 100K+ customers and the highest revenue contribution 👗
 
@@ -79,7 +91,7 @@ Cosmetics and Food & Beverage show strong and consistent demand 💄🍔
 
 Technology category has comparatively lower customer participation 💻
 
-**Payment Mode Insights:**
+**✅ Payment Mode Insights:**
 
 Cash is the most used payment method (~45% of transactions) 💵
 

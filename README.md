@@ -79,7 +79,8 @@ Debit Cards contribute ~20% of transactions 🏦
   ## 📸 Dashboard Snapshot
   ### 🟦 **1. Main Dashboard (1-Page Overview)**
 This page provides a complete one-page summary of the overall customer and sales performance.  
-It includes key KPIs, demographic overview, spending trends, and category-wise analysis.  
+It includes key KPIs, demographic overview, spending trends, and category-wise analysis. 
+![Main Dashboard](images/main_dashboard.png)
 
 
 ### 🟩 **2. Customer Insights**

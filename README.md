@@ -87,7 +87,7 @@ It includes key KPIs, demographic overview, spending trends, and category-wise a
 ### 🟩 **2. Customer Insights**
 This page focuses on understanding customer demographics and behaviour patterns. 
 
-![Customer Insights](dashboard_snapshot/dashboard.png)
+![Customer Insights](dashboard_snapshot/customer insight.png)
 
 
 ### 🟧 **3. Payment Details**

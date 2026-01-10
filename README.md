@@ -1,5 +1,24 @@
 # 📊 Customer Demographic and Shopping Revenue Analysis
 
+  ## 📸 Dashboard Snapshot
+  ### 🟦 **1. Main Dashboard (1-Page Overview)**
+This page provides a complete one-page summary of the overall customer and sales performance.  
+It includes key KPIs, demographic overview, spending trends, and category-wise analysis. 
+
+![Main Dashboard](dashboard_snapshot/dashboard.png)
+
+
+### 🟩 **2. Customer Insights**
+This page focuses on understanding customer demographics and behaviour patterns. 
+
+![Customer Insights](dashboard_snapshot/customer_insight.png)
+
+
+### 🟧 **3. Payment Details**
+This page shows payment preferences and transaction patterns. 
+
+![payment details](dashboard_snapshot/payment_details.png)
+
 ## 🎯Project Objective
 This project analyzes customer demographics and shopping behaviour to uncover patterns, trends, and insights that can help businesses improve their marketing strategies, sales performance, and customer engagement.  
 
@@ -74,26 +93,6 @@ Debit Cards contribute ~20% of transactions 🏦
 - Filters by region, product category, and time period for granular analysis  
 - Key metrics (KPI cards) for quick insights  
 - Drill-through functionality for detailed customer-level analysis
-
-
-  ## 📸 Dashboard Snapshot
-  ### 🟦 **1. Main Dashboard (1-Page Overview)**
-This page provides a complete one-page summary of the overall customer and sales performance.  
-It includes key KPIs, demographic overview, spending trends, and category-wise analysis. 
-
-![Main Dashboard](dashboard_snapshot/dashboard.png)
-
-
-### 🟩 **2. Customer Insights**
-This page focuses on understanding customer demographics and behaviour patterns. 
-
-![Customer Insights](dashboard_snapshot/customer_insight.png)
-
-
-### 🟧 **3. Payment Details**
-This page shows payment preferences and transaction patterns. 
-
-![payment details](dashboard_snapshot/payment_details.png)
 
 ## 📈 Outcome & Business Value
 - Identified high-value customer segments

@@ -11,7 +11,7 @@ The dashboard provides a comprehensive view of customer age groups, gender distr
 
 ## Tools and Technologies Used
 **Excel / CSV** – Raw data source  
-**SQL** - Analyze the queries
+**SQL** - Analyze the queries<br>
 **Power BI Desktop** – Dashboard creation and data visualization  
 **Power Query** – Data cleaning and transformation  
 **DAX** – Calculated metrics and measures 

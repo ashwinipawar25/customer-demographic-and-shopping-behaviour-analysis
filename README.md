@@ -113,7 +113,11 @@ Debit Cards contribute ~20% of transactions 🏦
 - Helped stakeholders make data-driven decisions
 
 ## Author & Contact
-Ashwini Pawar
+Ashwini Pawar<br>
 Data Analyst
+
+**Email**: [2005ashwinipawar@gmail.com](mailto:2005ashwinipawar@gmail.com)</a><br>
+**Github**: [ashwinipawar25](https://github.com/ashwinipawar25)
+
 
 

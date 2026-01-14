@@ -8,7 +8,7 @@ This project analyzes customer demographics and shopping behaviour to uncover pa
 
 The dashboard provides a comprehensive view of customer age groups, gender distribution, purchase frequency, preferred product categories
 
-##  🧩 Tasks / Objectives
+##  🧩 Tasks / Problem Statements
 1.	How is the shopping distribution according to gender? 
 2.	Which gender did we sell more products to? 
 3.	Which gender generated more revenue? 

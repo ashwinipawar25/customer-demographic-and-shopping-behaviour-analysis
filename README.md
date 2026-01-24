@@ -23,6 +23,8 @@ The dashboard provides a comprehensive view of customer age groups, gender distr
 
 
 ## Data Source
+This dataset contains shopping information from 10 different shopping 
+malls between 2021 and 2023
 - Dataset: Customer transaction records and demographic data (CSV format)  
 - Columns include: invoice_no, customer_id, gender, age, category, quantity, price, payment_method, invoice_date, shopping_mall
 

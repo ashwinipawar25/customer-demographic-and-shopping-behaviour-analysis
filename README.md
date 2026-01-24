@@ -39,7 +39,11 @@ malls between 2021 and 2023
 - Removed duplicate records
 - Standardized gender and category values
 - Created age groups (18–25, 26–35, 36–45, 46–55, 56+)
-- Calculated total revenue using Quantity × Price
+
+## Measures
+- Total Customer
+- Total Quantity
+- Sum of Revenue
 
 ## 📸 Dashboard Snapshot
 ### 🟦 **1. Main Dashboard (1-Page Overview)**
